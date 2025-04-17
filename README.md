@@ -24,7 +24,7 @@ This project provides a tool to synchronize unavailabilities for resources from 
 ## Installation
 
 1. Clone the repository:
-2. 
+
 ```bash
 git clone https://github.com/your-repo/qargo-assignment.git
 cd qargo-assignment
